@@ -1,0 +1,22 @@
+{
+  "name": "node-ci-cd",
+  "version": "1.0.0",
+  "description": "Test application to try out CI / CD using Jenkins",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psnmissaka/node-ci-cd-project.git"
+  },
+  "author": "Pasan Missaka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psnmissaka/node-ci-cd-project/issues"
+  },
+  "homepage": "https://github.com/psnmissaka/node-ci-cd-project#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
